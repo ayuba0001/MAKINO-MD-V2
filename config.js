@@ -34,10 +34,10 @@ global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //
 global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 */
-global.Owner = [""];
-global.OwnerNumber = [""];
-global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.Owner = ["CYBERTITAN"];
+global.OwnerNumber = ["2349152427584"];
+global.ownertag = ["CT"]; 
+global.OwnerName =  "CYBERTITAN";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
@@ -53,7 +53,7 @@ global.sessionName = "session";                          //Do not change.
 
 //
 global.prefa = ["/"];
-//process.env.PREFIX || "/";// Prefix                                 //Default prefix here.
+//process.env.PREFIX || ".";// Prefix                                 //Default prefix here.
 global.openAiAPI = "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";
 
 
